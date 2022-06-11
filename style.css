@@ -1,0 +1,38 @@
+.navdiv {
+background-color: rgba(0, 0, 0, 0.644) ;
+height: 40px;
+width: auto;
+
+}
+
+.links{
+    margin-top: 5px;
+    float: left;
+    margin-left: 30px;
+    
+}
+.links>a{
+    color:#dcdcdc;
+    text-decoration-line:none;
+    font-size: larger;
+}
+.links>a:hover{
+    color: red;
+}
+#MD:hover{
+    font-weight:bold;
+}
+
+#m-alet{
+    text-align: center;
+    font-weight: bolder;
+    color: yellowgreen;
+}
+.m-alet-list{
+    list-style-position: inside;
+    text-align: center;
+}
+
+.columns{
+    margin-bottom: 4px;
+}
